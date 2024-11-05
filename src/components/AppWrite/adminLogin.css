@@ -1,0 +1,9 @@
+.bg_img {
+  background-size: cover;
+  background-position: center; /* Center the image within the element */
+  background-repeat: no-repeat;
+}
+
+.lgOut {
+  cursor: pointer;
+}
